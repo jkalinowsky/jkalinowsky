@@ -1,6 +1,6 @@
 ## Hi there 👋 Nice to meet you!
 #### I'm Kuba, here are few things about me:
-- 🔭 I'm a upcomibg second year Computer Science Student
+- 🔭 I'm a rising second-year student Computer Science Student
 - 🌱 I'm currently developing with my C++ skills. Also learning more PHP and JavaScript :)
 
 #### 🛠️ LANGUAGES&TOOLS
