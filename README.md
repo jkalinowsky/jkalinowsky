@@ -1,7 +1,7 @@
 ## Hi there 👋 Nice to meet you!
 #### I'm Kuba, here are few things about me:
-- 🔭 I'm a first year Computer Science Student
-- 🌱 I'm currently learning Django as a hobby; C, TypeScript and a bit of PHP for my studies.
+- 🔭 I'm a upcomibg second year Computer Science Student
+- 🌱 I'm currently developing with my C++ skills. Also learning more PHP and JavaScript :)
 
 #### 🛠️ LANGUAGES&TOOLS
 <div align="center">
