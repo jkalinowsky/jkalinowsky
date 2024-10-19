@@ -21,8 +21,6 @@
 </div>
 
 
-	<code><img width="50" src="" alt="" title=""/></code>
-
 <!--
 **jkalinowsky/jkalinowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
