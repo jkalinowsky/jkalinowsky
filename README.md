@@ -1,7 +1,7 @@
 ## Hi there 👋 Nice to meet you!
 #### I'm Kuba, here are few things about me:
 - 🔭 I'm a rising second-year student Computer Science Student
-- 🌱 I'm currently working on Open Football Manager. Programming in C++ and JavaScript :D
+- 🌱 I'm working on an open-source football manager game that's going to be available as a web app. The match engine is written in C++, the frontend is built with Vue, and the backend is powered by Flask :D
 
 #### 🛠️ LANGUAGES&TOOLS
 <div align="center">
@@ -15,9 +15,11 @@
 
 #### 📖 CURRENTLY LEARNING 
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="FireBase" title="FireBase"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
  	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
   	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png" alt="WebAssembly" title="WebAssembly"/></code>
+  	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" alt="pytest" title="pytest"/></code>
+
 </div>
 
 
