@@ -2,8 +2,8 @@
 #### I'm Kuba, here are few things about me:
 - 🔭 I'm a rising second-year student Computer Science Student
 - 🌱 I'm currently working on:
-	<br>- an flashcard web app designed for students in FastApi and Angular with friend.
-  	<br>- a platform to test prediction features and tools for football matches in FastApi and React. 
+	<br>- a flashcard web app for students, built with FastAPI and Angular, in collaboration with a friend.
+  	<br>- a platform for testing prediction features and tools for football matches, using FastAPI and React.
 - 🌐 [jkalinowskyy.github.io](https://jkalinowsky.github.io/portfolio-site)
 
 #### 💻 LANGUAGES
