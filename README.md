@@ -13,6 +13,7 @@
 	<code><img width="50" src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=c" alt="C" title="C"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass"/></code>
 </div>
 
 #### 🛠️ FRAMEWORKS
@@ -29,6 +30,7 @@
 <div align="center">
 	<code><img width="50" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></code>
 </div>
 <!--
